@@ -1,5 +1,8 @@
 # Advance Level Pie Bar Box Violinplot Visualisations using Plotly
-Some of the Advance Level Pie chart, Bar chart, Box Plot &amp; Violin plot Visualizations using Plotly.
+## Objective:
+To plot The Advance Level Pie chart, Bar chart, Box Plot &amp; Violin plot Visualizations using Plotly.
+
+**Note:** Please Hover your cursor on Visualizations to get the details pop-up in Notebook.
 
 # Violin Plot Visualization:
 ![picture alt](https://github.com/Ashish-Gore/Advance-Level-Pie-Bar-Box-Violinplot-Visualisations-Plotly/blob/main/ViolinPlot.png)
